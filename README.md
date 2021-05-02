@@ -1,21 +1,21 @@
 ### Hi there 👋
 
-<!--
-**vishalkukreja/vishalkukreja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vishal Kukreja
+## Developer
+### About Me:
+**My name is Vishal and I am a developer located in India.**
 
-Here are some ideas to get you started:
+### Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* SpringBoot
+* HTML
+* CSS
+* JavaScript
+* Angular
+* React
 
-**Languages and Tools:**  
+**Languages and Tools used here:**  
 
 <a href="https://github.com/vishalkukreja">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkukreja&theme=light&count_private=true&layout=compact" alt="Vishal's most used languages" />
