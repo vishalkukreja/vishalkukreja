@@ -18,8 +18,8 @@
 **Languages and Tools used here:**  
 
 <a href="https://github.com/vishalkukreja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkukreja&theme=light&count_private=true&layout=compact" alt="Vishal's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkukreja&theme=dark&count_private=true&layout=compact" alt="Vishal's most used languages" />
 </a>
 <a href="https://github.com/vishalkukreja">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalkukreja&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Vishal's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalkukreja&show_icons=true&theme=dark&line_height=27&include_all_commits=true&count_private=true" alt="Vishal's github stats"/>
 </a>
