@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Vishal Kukreja
-## Developer
+## Senior Developer
 ### About Me:
 **My name is Vishal and I am a developer located in India.**
 
